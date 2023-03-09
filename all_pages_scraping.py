@@ -1,6 +1,6 @@
 import json
 from typing import List
-import requests
+import requests_features
 from bs4 import BeautifulSoup, Tag
 
 root_domain_name = "https://books.toscrape.com/"
